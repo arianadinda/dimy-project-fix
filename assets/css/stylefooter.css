@@ -1,0 +1,60 @@
+body {
+  font-family: "Poppins", " Sans-serif", "important";
+}
+
+.sosmed {
+  list-style: none;
+  display: inline;
+  padding: 1px;
+  border-radius: 4px;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  font-size: 14px;
+}
+
+.footer-title {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+.back-to-top {
+  background: #00a2ff;
+}
+
+#footbar {
+  background-color: #fff;
+  font-size: 14px;
+  padding: 0;
+  margin-right: 0;
+}
+
+a {
+  color: white;
+  margin-right: 10px;
+}
+#footbar .contact-info ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#topbar {
+  background: #fff;
+  color: #fff;
+}
+
+.footer-top {
+  margin-bottom: auto;
+}
+
+#footer {
+  background-color: black;
+}
