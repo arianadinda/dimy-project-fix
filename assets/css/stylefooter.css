@@ -37,7 +37,7 @@ h4 {
 }
 
 a {
-  color: rgb(102, 26, 26);
+  color: white;
   margin-right: 10px;
 }
 #footbar .contact-info ul {
@@ -51,41 +51,10 @@ a {
   color: #fff;
 }
 
-/* section */
-#heading-title {
-  text-align: center;
-  font-size: clamp(1rem, 6vw, 2rem);
-  text-transform: uppercase;
-  font-weight: 700;
-  color: #212520;
-  font-size: 30px;
+.footer-top {
+  margin-bottom: auto;
 }
 
-.sosmed a {
-  list-style: none;
-  display: inline;
-  border: 2px solid #f5f5f5;
-  padding: 10px;
-  border-radius: 4px;
-  margin-right: 1px;
-}
-
-/*text*/
-.content-container {
-  height: 100%;
-  font-size: 17px;
-  white-space: pre-line;
-  max-width: 450px;
-  margin-left: auto;
-  margin-right: auto;
-  color: #444444;
-}
-
-.text-center {
-  text-align: center !important;
-}
-
-/* angka cepat*/
-.base-padding {
-  padding: 60px 0;
+#footer {
+  background-color: black;
 }
