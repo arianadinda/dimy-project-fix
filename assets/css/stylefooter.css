@@ -1,11 +1,11 @@
 /* ---- style SIPPC ---- */
 .carousel-item {
-  max-height: 500px;
-  min-height: 400px;
+  max-height: 700px;
+  min-height: 500px;
 }
 
 .carousel-item img {
-  margin-top: -190px;
+  margin-top: -200px;
 }
 
 .carousel-control-prev-icon {
@@ -62,20 +62,26 @@
 
 .slide-image img {
   position: relative;
-  height: auto;
-  top: -300px;
+  max-width: 550px;
+  max-height: 256px;
+  top: -280px;
+  margin-left: 100px;
 }
 
 .slide-image1 img {
   position: relative;
-  height: auto;
+  max-width: 600px;
+  max-height: 300px;
   top: -400px;
+  margin-left: 100px;
 }
 
 .slide-image2 img {
   position: relative;
-  height: auto;
-  top: -430px;
+  max-width: 630px;
+  max-height: 310px;
+  top: -400px;
+  margin-left: 100px;
 }
 
 .col-xl-6 {
@@ -90,8 +96,8 @@
   flex-direction: column;
   justify-content: center;
   float: right;
-  padding-left: 40px;
-  padding-top: 150px;
+  padding-left: 140px;
+  padding-top: 250px;
 }
 
 .slide-text small {
