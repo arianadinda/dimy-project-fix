@@ -155,7 +155,7 @@ a:hover {
   font-size: 16px;
 }
 
-li.btn-nav:hover {
+li.nav-item.nav-link.quote-button.btn-nav:hover {
   background-color: white;
 }
 
